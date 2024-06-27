@@ -1,0 +1,5 @@
+npm install -g sass
+sass --update themes/tailwind/tailwind-light/theme.scss:./theme.css
+
+# Replace mytheme with the right name
+# Import and use the theme in basejmp-console and baselib
